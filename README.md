@@ -1,2 +1,2 @@
 # Coursera-R
-asdfasdl;fkjasdl;fkja
+Mayur's repository for sample codes
